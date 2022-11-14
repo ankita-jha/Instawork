@@ -12,7 +12,7 @@ npm i mysql2 uuidv4
 
 node app or else nodemon app
 
-### Endpoints
+## Endpoints
 # 1. create a member: (Post) http://localhost:3000/team
  json: {
     "first_name":"ankita",
